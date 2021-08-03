@@ -1,0 +1,2 @@
+# RustPractice
+practice for Rust
