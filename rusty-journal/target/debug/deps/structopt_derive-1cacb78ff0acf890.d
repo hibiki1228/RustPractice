@@ -1,0 +1,10 @@
+C:\workspace\Rust\rusty-journal\target\debug\deps\structopt_derive-1cacb78ff0acf890.dll: C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\lib.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\attrs.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\doc_comments.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\parse.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\spanned.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\ty.rs
+
+C:\workspace\Rust\rusty-journal\target\debug\deps\structopt_derive-1cacb78ff0acf890.d: C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\lib.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\attrs.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\doc_comments.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\parse.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\spanned.rs C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\ty.rs
+
+C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\lib.rs:
+C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\attrs.rs:
+C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\doc_comments.rs:
+C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\parse.rs:
+C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\spanned.rs:
+C:\Users\hibiki\.cargo\registry\src\github.com-1ecc6299db9ec823\structopt-derive-0.4.15\src\ty.rs:
